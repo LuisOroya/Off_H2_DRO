@@ -1,0 +1,21 @@
+set Segments := 0 1;
+
+param A :=
+0	0
+1	17.36214
+;
+
+param B :=
+0	0
+1	0.18483
+;
+
+param LowerBound :=
+0	0
+1	0.15000
+;
+
+param UpperBound :=
+0	0.15000
+1	1.00000
+;
