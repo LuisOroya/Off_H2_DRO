@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="302.520348pt" height="291.6pt" viewBox="0 0 302.520348 291.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="302.022216pt" height="291.6pt" viewBox="0 0 302.022216 291.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-05-19T16:32:10.032861</dc:date>
+    <dc:date>2026-05-20T15:48:40.745493</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -21,157 +21,157 @@
  </defs>
  <g id="figure_1">
   <g id="patch_1">
-   <path d="M -0 291.6 
-L 302.520348 291.6 
-L 302.520348 0 
-L -0 0 
-L -0 291.6 
+   <path d="M 0 291.6 
+L 302.022216 291.6 
+L 302.022216 0 
+L 0 0 
+L 0 291.6 
 z
 " style="fill: none"/>
   </g>
   <g id="patch_2">
-   <path d="M 18.120348 284.4 
-L 295.320348 284.4 
-L 295.320348 7.2 
-L 18.120348 7.2 
-L 18.120348 284.4 
+   <path d="M 17.622216 284.4 
+L 294.822216 284.4 
+L 294.822216 7.2 
+L 17.622216 7.2 
+L 17.622216 284.4 
 z
 " style="fill: none"/>
   </g>
   <g id="pane3d_1">
    <g id="patch_3">
-    <path d="M 284.263193 201.556079 
-L 160.466294 148.736843 
-L 160.466294 34.310707 
-L 289.024346 80.263618 
+    <path d="M 283.765061 201.556079 
+L 159.968162 148.736843 
+L 159.968162 34.310707 
+L 288.526214 80.263618 
 " style="fill: #f2f2f2; opacity: 0.5; stroke: #f2f2f2; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="pane3d_2">
    <g id="patch_4">
-    <path d="M 36.669395 201.556079 
-L 160.466294 148.736843 
-L 160.466294 34.310707 
-L 31.908243 80.263618 
+    <path d="M 36.171263 201.556079 
+L 159.968162 148.736843 
+L 159.968162 34.310707 
+L 31.410111 80.263618 
 " style="fill: #e6e6e6; opacity: 0.5; stroke: #e6e6e6; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="pane3d_3">
    <g id="patch_5">
-    <path d="M 160.466294 262.925742 
-L 284.263193 201.556079 
-L 160.466294 148.736843 
-L 36.669395 201.556079 
+    <path d="M 159.968162 262.925742 
+L 283.765061 201.556079 
+L 159.968162 148.736843 
+L 36.171263 201.556079 
 " style="fill: #ececec; opacity: 0.5; stroke: #ececec; stroke-linejoin: miter"/>
    </g>
   </g>
   <g id="grid3d_1">
    <g id="Line3DCollection_1">
-    <path d="M 168.938289 258.725932 
-L 45.097122 197.960301 
-L 40.681942 77.127471 
+    <path d="M 168.440157 258.725932 
+L 44.59899 197.960301 
+L 40.18381 77.127471 
 " style="fill: none; stroke: #b0b0b0; stroke-width: 0.8"/>
-    <path d="M 187.980579 249.286124 
-L 64.063546 189.868079 
-L 60.415273 70.073817 
+    <path d="M 187.482447 249.286124 
+L 63.565414 189.868079 
+L 59.917141 70.073817 
 " style="fill: none; stroke: #b0b0b0; stroke-width: 0.8"/>
-    <path d="M 206.587002 240.062389 
-L 82.627506 181.947572 
-L 79.714193 63.175443 
+    <path d="M 206.08887 240.062389 
+L 82.129374 181.947572 
+L 79.216061 63.175443 
 " style="fill: none; stroke: #b0b0b0; stroke-width: 0.8"/>
-    <path d="M 224.772352 231.04739 
-L 100.801678 174.193373 
-L 98.592891 56.427276 
+    <path d="M 224.27422 231.04739 
+L 100.303546 174.193373 
+L 98.094759 56.427276 
 " style="fill: none; stroke: #b0b0b0; stroke-width: 0.8"/>
-    <path d="M 242.550764 222.234123 
-L 118.598211 166.600297 
-L 117.064945 49.824464 
+    <path d="M 242.052632 222.234123 
+L 118.100079 166.600297 
+L 116.566813 49.824464 
 " style="fill: none; stroke: #b0b0b0; stroke-width: 0.8"/>
-    <path d="M 259.935747 213.61589 
-L 136.028753 159.163375 
-L 135.143353 43.36236 
+    <path d="M 259.437615 213.61589 
+L 135.530621 159.163375 
+L 134.645221 43.36236 
 " style="fill: none; stroke: #b0b0b0; stroke-width: 0.8"/>
-    <path d="M 276.940215 205.186288 
-L 153.10448 151.877838 
-L 152.840565 37.036514 
+    <path d="M 276.442083 205.186288 
+L 152.606348 151.877838 
+L 152.342433 37.036514 
 " style="fill: none; stroke: #b0b0b0; stroke-width: 0.8"/>
    </g>
   </g>
   <g id="grid3d_2">
    <g id="Line3DCollection_2">
-    <path d="M 280.250646 77.127471 
-L 275.835467 197.960301 
-L 151.994299 258.725932 
+    <path d="M 279.752514 77.127471 
+L 275.337335 197.960301 
+L 151.496167 258.725932 
 " style="fill: none; stroke: #b0b0b0; stroke-width: 0.8"/>
-    <path d="M 260.517316 70.073817 
-L 256.869042 189.868079 
-L 132.952009 249.286124 
+    <path d="M 260.019184 70.073817 
+L 256.37091 189.868079 
+L 132.453877 249.286124 
 " style="fill: none; stroke: #b0b0b0; stroke-width: 0.8"/>
-    <path d="M 241.218396 63.175443 
-L 238.305082 181.947572 
-L 114.345586 240.062389 
+    <path d="M 240.720264 63.175443 
+L 237.80695 181.947572 
+L 113.847454 240.062389 
 " style="fill: none; stroke: #b0b0b0; stroke-width: 0.8"/>
-    <path d="M 222.339697 56.427276 
-L 220.13091 174.193373 
-L 96.160236 231.04739 
+    <path d="M 221.841565 56.427276 
+L 219.632778 174.193373 
+L 95.662104 231.04739 
 " style="fill: none; stroke: #b0b0b0; stroke-width: 0.8"/>
-    <path d="M 203.867643 49.824464 
-L 202.334378 166.600297 
-L 78.381824 222.234123 
+    <path d="M 203.369511 49.824464 
+L 201.836246 166.600297 
+L 77.883692 222.234123 
 " style="fill: none; stroke: #b0b0b0; stroke-width: 0.8"/>
-    <path d="M 185.789235 43.36236 
-L 184.903835 159.163375 
-L 60.996842 213.61589 
+    <path d="M 185.291103 43.36236 
+L 184.405703 159.163375 
+L 60.49871 213.61589 
 " style="fill: none; stroke: #b0b0b0; stroke-width: 0.8"/>
-    <path d="M 168.092023 37.036514 
-L 167.828108 151.877838 
-L 43.992373 205.186288 
+    <path d="M 167.593891 37.036514 
+L 167.329976 151.877838 
+L 43.494241 205.186288 
 " style="fill: none; stroke: #b0b0b0; stroke-width: 0.8"/>
    </g>
   </g>
   <g id="grid3d_3">
    <g id="Line3DCollection_3">
-    <path d="M 36.57763 199.218339 
-L 160.466294 146.525648 
-L 284.354958 199.218339 
+    <path d="M 36.079498 199.218339 
+L 159.968162 146.525648 
+L 283.856826 199.218339 
 " style="fill: none; stroke: #b0b0b0; stroke-width: 0.8"/>
-    <path d="M 35.794052 179.256334 
-L 160.466294 127.653501 
-L 285.138536 179.256334 
+    <path d="M 35.29592 179.256334 
+L 159.968162 127.653501 
+L 284.640404 179.256334 
 " style="fill: none; stroke: #b0b0b0; stroke-width: 0.8"/>
-    <path d="M 35.000499 159.040207 
-L 160.466294 108.558053 
-L 285.93209 159.040207 
+    <path d="M 34.502367 159.040207 
+L 159.968162 108.558053 
+L 285.433958 159.040207 
 " style="fill: none; stroke: #b0b0b0; stroke-width: 0.8"/>
-    <path d="M 34.196778 138.565076 
-L 160.466294 89.235317 
-L 286.73581 138.565076 
+    <path d="M 33.698646 138.565076 
+L 159.968162 89.235317 
+L 286.237678 138.565076 
 " style="fill: none; stroke: #b0b0b0; stroke-width: 0.8"/>
-    <path d="M 33.382694 117.82593 
-L 160.466294 69.681212 
-L 287.549894 117.82593 
+    <path d="M 32.884562 117.82593 
+L 159.968162 69.681212 
+L 287.051762 117.82593 
 " style="fill: none; stroke: #b0b0b0; stroke-width: 0.8"/>
-    <path d="M 32.558045 96.817631 
-L 160.466294 49.891556 
-L 288.374543 96.817631 
+    <path d="M 32.059913 96.817631 
+L 159.968162 49.891556 
+L 287.876411 96.817631 
 " style="fill: none; stroke: #b0b0b0; stroke-width: 0.8"/>
    </g>
   </g>
   <g id="axis3d_1">
    <g id="line2d_1">
-    <path d="M 284.263193 201.556079 
-L 160.466294 262.925742 
+    <path d="M 283.765061 201.556079 
+L 159.968162 262.925742 
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linecap: square"/>
    </g>
    <g id="xtick_1">
     <g id="line2d_2">
-     <path d="M 167.86847 258.201 
-L 171.082068 259.777829 
+     <path d="M 167.370338 258.201 
+L 170.583936 259.777829 
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linecap: square"/>
     </g>
     <g id="text_1">
      <!-- $\mathdefault{0.0}$ -->
-     <g transform="translate(173.213707 280.667918) scale(0.1 -0.1)">
+     <g transform="translate(173.354673 279.983975) scale(0.09 -0.09)">
       <defs>
        <path id="TeXGyreTermesX-Regular-30" d="M 3046 2138 
 C 3046 3450 2464 4352 1626 4352 
@@ -205,13 +205,13 @@ z
    </g>
    <g id="xtick_2">
     <g id="line2d_3">
-     <path d="M 186.91102 248.773272 
-L 190.123789 250.31379 
+     <path d="M 186.412888 248.773272 
+L 189.625657 250.31379 
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linecap: square"/>
     </g>
     <g id="text_2">
      <!-- $\mathdefault{0.5}$ -->
-     <g transform="translate(192.193324 271.022357) scale(0.1 -0.1)">
+     <g transform="translate(192.33429 270.338414) scale(0.09 -0.09)">
       <defs>
        <path id="TeXGyreTermesX-Regular-35" d="M 2803 4403 
 L 2746 4448 
@@ -246,13 +246,13 @@ z
    </g>
    <g id="xtick_3">
     <g id="line2d_4">
-     <path d="M 205.517971 239.561205 
-L 208.729106 241.066652 
+     <path d="M 205.019839 239.561205 
+L 208.230974 241.066652 
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linecap: square"/>
     </g>
     <g id="text_3">
      <!-- $\mathdefault{1.0}$ -->
-     <g transform="translate(210.737128 261.598279) scale(0.1 -0.1)">
+     <g transform="translate(210.878094 260.914336) scale(0.09 -0.09)">
       <defs>
        <path id="TeXGyreTermesX-Regular-31" d="M 2522 0 
 L 2522 96 
@@ -280,13 +280,13 @@ z
    </g>
    <g id="xtick_4">
     <g id="line2d_5">
-     <path d="M 223.7041 230.557481 
-L 226.91285 232.029041 
+     <path d="M 223.205968 230.557481 
+L 226.414718 232.029041 
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linecap: square"/>
     </g>
     <g id="text_4">
      <!-- $\mathdefault{1.5}$ -->
-     <g transform="translate(228.859958 252.388142) scale(0.1 -0.1)">
+     <g transform="translate(229.000924 251.704199) scale(0.09 -0.09)">
       <use xlink:href="#TeXGyreTermesX-Regular-31" transform="scale(0.996264)"/>
       <use xlink:href="#NewTXMI-95" transform="translate(51.407199 0) scale(0.996264)"/>
       <use xlink:href="#TeXGyreTermesX-Regular-35" transform="translate(78.00746 0) scale(0.996264)"/>
@@ -295,13 +295,13 @@ L 226.91285 232.029041
    </g>
    <g id="xtick_5">
     <g id="line2d_6">
-     <path d="M 241.483524 221.755111 
-L 244.689192 223.193917 
+     <path d="M 240.985392 221.755111 
+L 244.19106 223.193917 
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linecap: square"/>
     </g>
     <g id="text_5">
      <!-- $\mathdefault{2.0}$ -->
-     <g transform="translate(246.57599 243.384743) scale(0.1 -0.1)">
+     <g transform="translate(246.716956 242.7008) scale(0.09 -0.09)">
       <defs>
        <path id="TeXGyreTermesX-Regular-32" d="M 3040 875 
 L 2957 907 
@@ -331,13 +331,13 @@ z
    </g>
    <g id="xtick_6">
     <g id="line2d_7">
-     <path d="M 258.869734 213.147417 
-L 262.071669 214.554548 
+     <path d="M 258.371602 213.147417 
+L 261.573537 214.554548 
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linecap: square"/>
     </g>
     <g id="text_6">
      <!-- $\mathdefault{2.5}$ -->
-     <g transform="translate(263.898767 234.581199) scale(0.1 -0.1)">
+     <g transform="translate(264.039733 233.897255) scale(0.09 -0.09)">
       <use xlink:href="#TeXGyreTermesX-Regular-32" transform="scale(0.996264)"/>
       <use xlink:href="#NewTXMI-95" transform="translate(51.407199 0) scale(0.996264)"/>
       <use xlink:href="#TeXGyreTermesX-Regular-35" transform="translate(78.00746 0) scale(0.996264)"/>
@@ -346,13 +346,13 @@ L 262.071669 214.554548
    </g>
    <g id="xtick_7">
     <g id="line2d_8">
-     <path d="M 275.875633 204.72801 
-L 279.07323 206.104502 
+     <path d="M 275.377501 204.72801 
+L 278.575098 206.104502 
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linecap: square"/>
     </g>
     <g id="text_7">
      <!-- $\mathdefault{3.0}$ -->
-     <g transform="translate(280.841241 225.970927) scale(0.1 -0.1)">
+     <g transform="translate(280.982207 225.286983) scale(0.09 -0.09)">
       <defs>
        <path id="TeXGyreTermesX-Regular-33" d="M 2765 1428 
 C 2765 1754 2662 2055 2477 2253 
@@ -388,19 +388,19 @@ z
   </g>
   <g id="axis3d_2">
    <g id="line2d_9">
-    <path d="M 36.669395 201.556079 
-L 160.466294 262.925742 
+    <path d="M 36.171263 201.556079 
+L 159.968162 262.925742 
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linecap: square"/>
    </g>
    <g id="xtick_8">
     <g id="line2d_10">
-     <path d="M 153.064118 258.201 
-L 149.85052 259.777829 
+     <path d="M 152.565986 258.201 
+L 149.352388 259.777829 
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linecap: square"/>
     </g>
     <g id="text_8">
      <!-- $\mathdefault{0.0}$ -->
-     <g transform="translate(134.936828 280.667918) scale(0.1 -0.1)">
+     <g transform="translate(135.077794 279.983975) scale(0.09 -0.09)">
       <use xlink:href="#TeXGyreTermesX-Regular-30" transform="scale(0.996264)"/>
       <use xlink:href="#NewTXMI-95" transform="translate(51.407199 0) scale(0.996264)"/>
       <use xlink:href="#TeXGyreTermesX-Regular-30" transform="translate(78.00746 0) scale(0.996264)"/>
@@ -409,13 +409,13 @@ L 149.85052 259.777829
    </g>
    <g id="xtick_9">
     <g id="line2d_11">
-     <path d="M 134.021568 248.773272 
-L 130.808799 250.31379 
+     <path d="M 133.523436 248.773272 
+L 130.310667 250.31379 
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linecap: square"/>
     </g>
     <g id="text_9">
      <!-- $\mathdefault{0.5}$ -->
-     <g transform="translate(115.95721 271.022357) scale(0.1 -0.1)">
+     <g transform="translate(116.098177 270.338414) scale(0.09 -0.09)">
       <use xlink:href="#TeXGyreTermesX-Regular-30" transform="scale(0.996264)"/>
       <use xlink:href="#NewTXMI-95" transform="translate(51.407199 0) scale(0.996264)"/>
       <use xlink:href="#TeXGyreTermesX-Regular-35" transform="translate(78.00746 0) scale(0.996264)"/>
@@ -424,13 +424,13 @@ L 130.808799 250.31379
    </g>
    <g id="xtick_10">
     <g id="line2d_12">
-     <path d="M 115.414617 239.561205 
-L 112.203483 241.066652 
+     <path d="M 114.916485 239.561205 
+L 111.705351 241.066652 
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linecap: square"/>
     </g>
     <g id="text_10">
      <!-- $\mathdefault{1.0}$ -->
-     <g transform="translate(97.413407 261.598279) scale(0.1 -0.1)">
+     <g transform="translate(97.554373 260.914336) scale(0.09 -0.09)">
       <use xlink:href="#TeXGyreTermesX-Regular-31" transform="scale(0.996264)"/>
       <use xlink:href="#NewTXMI-95" transform="translate(51.407199 0) scale(0.996264)"/>
       <use xlink:href="#TeXGyreTermesX-Regular-30" transform="translate(78.00746 0) scale(0.996264)"/>
@@ -439,13 +439,13 @@ L 112.203483 241.066652
    </g>
    <g id="xtick_11">
     <g id="line2d_13">
-     <path d="M 97.228488 230.557481 
-L 94.019738 232.029041 
+     <path d="M 96.730356 230.557481 
+L 93.521606 232.029041 
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linecap: square"/>
     </g>
     <g id="text_11">
      <!-- $\mathdefault{1.5}$ -->
-     <g transform="translate(79.290576 252.388142) scale(0.1 -0.1)">
+     <g transform="translate(79.431542 251.704199) scale(0.09 -0.09)">
       <use xlink:href="#TeXGyreTermesX-Regular-31" transform="scale(0.996264)"/>
       <use xlink:href="#NewTXMI-95" transform="translate(51.407199 0) scale(0.996264)"/>
       <use xlink:href="#TeXGyreTermesX-Regular-35" transform="translate(78.00746 0) scale(0.996264)"/>
@@ -454,13 +454,13 @@ L 94.019738 232.029041
    </g>
    <g id="xtick_12">
     <g id="line2d_14">
-     <path d="M 79.449065 221.755111 
-L 76.243397 223.193917 
+     <path d="M 78.950933 221.755111 
+L 75.745265 223.193917 
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linecap: square"/>
     </g>
     <g id="text_12">
      <!-- $\mathdefault{2.0}$ -->
-     <g transform="translate(61.574545 243.384743) scale(0.1 -0.1)">
+     <g transform="translate(61.715511 242.7008) scale(0.09 -0.09)">
       <use xlink:href="#TeXGyreTermesX-Regular-32" transform="scale(0.996264)"/>
       <use xlink:href="#NewTXMI-95" transform="translate(51.407199 0) scale(0.996264)"/>
       <use xlink:href="#TeXGyreTermesX-Regular-30" transform="translate(78.00746 0) scale(0.996264)"/>
@@ -469,13 +469,13 @@ L 76.243397 223.193917
    </g>
    <g id="xtick_13">
     <g id="line2d_15">
-     <path d="M 62.062854 213.147417 
-L 58.860919 214.554548 
+     <path d="M 61.564722 213.147417 
+L 58.362787 214.554548 
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linecap: square"/>
     </g>
     <g id="text_13">
      <!-- $\mathdefault{2.5}$ -->
-     <g transform="translate(44.251767 234.581199) scale(0.1 -0.1)">
+     <g transform="translate(44.392733 233.897255) scale(0.09 -0.09)">
       <use xlink:href="#TeXGyreTermesX-Regular-32" transform="scale(0.996264)"/>
       <use xlink:href="#NewTXMI-95" transform="translate(51.407199 0) scale(0.996264)"/>
       <use xlink:href="#TeXGyreTermesX-Regular-35" transform="translate(78.00746 0) scale(0.996264)"/>
@@ -484,13 +484,13 @@ L 58.860919 214.554548
    </g>
    <g id="xtick_14">
     <g id="line2d_16">
-     <path d="M 45.056955 204.72801 
-L 41.859359 206.104502 
+     <path d="M 44.558823 204.72801 
+L 41.361227 206.104502 
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linecap: square"/>
     </g>
     <g id="text_14">
      <!-- $\mathdefault{3.0}$ -->
-     <g transform="translate(27.309294 225.970927) scale(0.1 -0.1)">
+     <g transform="translate(27.45026 225.286983) scale(0.09 -0.09)">
       <use xlink:href="#TeXGyreTermesX-Regular-33" transform="scale(0.996264)"/>
       <use xlink:href="#NewTXMI-95" transform="translate(51.407199 0) scale(0.996264)"/>
       <use xlink:href="#TeXGyreTermesX-Regular-30" transform="translate(78.00746 0) scale(0.996264)"/>
@@ -500,32 +500,32 @@ L 41.859359 206.104502
   </g>
   <g id="axis3d_3">
    <g id="line2d_17">
-    <path d="M 36.669395 201.556079 
-L 31.908243 80.263618 
+    <path d="M 36.171263 201.556079 
+L 31.410111 80.263618 
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linecap: square"/>
    </g>
    <g id="xtick_15">
     <g id="line2d_18">
-     <path d="M 37.64237 198.765481 
-L 34.444316 200.125687 
+     <path d="M 37.144238 198.765481 
+L 33.946184 200.125687 
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linecap: square"/>
     </g>
     <g id="text_15">
      <!-- $\mathdefault{0}$ -->
-     <g transform="translate(14.350595 206.057682) scale(0.1 -0.1)">
+     <g transform="translate(14.101529 205.373739) scale(0.09 -0.09)">
       <use xlink:href="#TeXGyreTermesX-Regular-30" transform="scale(0.996264)"/>
      </g>
     </g>
    </g>
    <g id="xtick_16">
     <g id="line2d_19">
-     <path d="M 36.865995 178.812648 
-L 33.646282 180.145313 
+     <path d="M 36.367863 178.812648 
+L 33.14815 180.145313 
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linecap: square"/>
     </g>
     <g id="text_16">
      <!-- $\mathdefault{10}$ -->
-     <g transform="translate(10.951526 186.095676) scale(0.1 -0.1)">
+     <g transform="translate(10.951526 185.411733) scale(0.09 -0.09)">
       <use xlink:href="#TeXGyreTermesX-Regular-31" transform="scale(0.996264)"/>
       <use xlink:href="#TeXGyreTermesX-Regular-30" transform="translate(49.8132 0) scale(0.996264)"/>
      </g>
@@ -533,13 +533,13 @@ L 33.646282 180.145313
    </g>
    <g id="xtick_17">
     <g id="line2d_20">
-     <path d="M 36.079742 158.605965 
-L 32.838076 159.910275 
+     <path d="M 35.58161 158.605965 
+L 32.339944 159.910275 
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linecap: square"/>
     </g>
     <g id="text_17">
      <!-- $\mathdefault{20}$ -->
-     <g transform="translate(10.031554 165.87955) scale(0.1 -0.1)">
+     <g transform="translate(10.031554 165.195606) scale(0.09 -0.09)">
       <use xlink:href="#TeXGyreTermesX-Regular-32" transform="scale(0.996264)"/>
       <use xlink:href="#TeXGyreTermesX-Regular-30" transform="translate(49.8132 0) scale(0.996264)"/>
      </g>
@@ -547,13 +547,13 @@ L 32.838076 159.910275
    </g>
    <g id="xtick_18">
     <g id="line2d_21">
-     <path d="M 35.283421 138.140556 
-L 32.019503 139.415672 
+     <path d="M 34.785289 138.140556 
+L 31.521371 139.415672 
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linecap: square"/>
     </g>
     <g id="text_18">
      <!-- $\mathdefault{30}$ -->
-     <g transform="translate(9.099795 145.404418) scale(0.1 -0.1)">
+     <g transform="translate(9.099795 144.720475) scale(0.09 -0.09)">
       <use xlink:href="#TeXGyreTermesX-Regular-33" transform="scale(0.996264)"/>
       <use xlink:href="#TeXGyreTermesX-Regular-30" transform="translate(49.8132 0) scale(0.996264)"/>
      </g>
@@ -561,13 +561,13 @@ L 32.019503 139.415672
    </g>
    <g id="xtick_19">
     <g id="line2d_22">
-     <path d="M 34.476839 117.411421 
-L 31.190363 118.65648 
+     <path d="M 33.978707 117.411421 
+L 30.692231 118.65648 
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linecap: square"/>
     </g>
     <g id="text_19">
      <!-- $\mathdefault{40}$ -->
-     <g transform="translate(8.156022 124.665273) scale(0.1 -0.1)">
+     <g transform="translate(8.156022 123.98133) scale(0.09 -0.09)">
       <defs>
        <path id="TeXGyreTermesX-Regular-34" d="M 3021 1088 
 L 3021 1497 
@@ -596,13 +596,13 @@ z
    </g>
    <g id="xtick_20">
     <g id="line2d_23">
-     <path d="M 33.659796 96.413428 
-L 30.350448 97.627539 
+     <path d="M 33.161664 96.413428 
+L 29.852316 97.627539 
 " style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linecap: square"/>
     </g>
     <g id="text_20">
      <!-- $\mathdefault{50}$ -->
-     <g transform="translate(7.2 103.656974) scale(0.1 -0.1)">
+     <g transform="translate(7.2 102.97303) scale(0.09 -0.09)">
       <use xlink:href="#TeXGyreTermesX-Regular-35" transform="scale(0.996264)"/>
       <use xlink:href="#TeXGyreTermesX-Regular-30" transform="translate(49.8132 0) scale(0.996264)"/>
      </g>
@@ -611,13 +611,13 @@ L 30.350448 97.627539
   </g>
   <g id="axes_1">
    <g id="line2d_24">
-    <path d="M 160.466294 252.10967 
-L 68.972654 175.067308 
-L 160.466294 42.174073 
-L 160.466294 252.10967 
-" clip-path="url(#p6e27df8690)" style="fill: none; stroke: #000000; stroke-width: 1.5; stroke-linecap: square"/>
+    <path d="M 159.968162 252.10967 
+L 68.474522 175.067308 
+L 159.968162 42.174073 
+L 159.968162 252.10967 
+" clip-path="url(#p22433a7b80)" style="fill: none; stroke: #000000; stroke-width: 1.5; stroke-linecap: square"/>
     <defs>
-     <path id="m3e8f3abf98" d="M 0 1.5 
+     <path id="mfa14d59dcb" d="M 0 1.5 
 C 0.397805 1.5 0.77937 1.341951 1.06066 1.06066 
 C 1.341951 0.77937 1.5 0.397805 1.5 0 
 C 1.5 -0.397805 1.341951 -0.77937 1.06066 -1.06066 
@@ -629,25 +629,25 @@ C -0.77937 1.341951 -0.397805 1.5 0 1.5
 z
 " style="stroke: #000000"/>
     </defs>
-    <g clip-path="url(#p6e27df8690)">
-     <use xlink:href="#m3e8f3abf98" x="160.466294" y="252.10967" style="stroke: #000000"/>
-     <use xlink:href="#m3e8f3abf98" x="68.972654" y="175.067308" style="stroke: #000000"/>
-     <use xlink:href="#m3e8f3abf98" x="160.466294" y="42.174073" style="stroke: #000000"/>
-     <use xlink:href="#m3e8f3abf98" x="160.466294" y="252.10967" style="stroke: #000000"/>
+    <g clip-path="url(#p22433a7b80)">
+     <use xlink:href="#mfa14d59dcb" x="159.968162" y="252.10967" style="stroke: #000000"/>
+     <use xlink:href="#mfa14d59dcb" x="68.474522" y="175.067308" style="stroke: #000000"/>
+     <use xlink:href="#mfa14d59dcb" x="159.968162" y="42.174073" style="stroke: #000000"/>
+     <use xlink:href="#mfa14d59dcb" x="159.968162" y="252.10967" style="stroke: #000000"/>
     </g>
    </g>
    <g id="Poly3DCollection_1">
-    <path d="M 160.466294 252.10967 
-L 160.466294 42.174073 
-L 68.972654 175.067308 
+    <path d="M 159.968162 252.10967 
+L 159.968162 42.174073 
+L 68.474522 175.067308 
 z
-" clip-path="url(#p6e27df8690)" style="fill: #007200; fill-opacity: 0.4"/>
+" clip-path="url(#p22433a7b80)" style="fill: #007200; fill-opacity: 0.4"/>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="p6e27df8690">
-   <rect x="18.120348" y="7.2" width="277.2" height="277.2"/>
+  <clipPath id="p22433a7b80">
+   <rect x="17.622216" y="7.2" width="277.2" height="277.2"/>
   </clipPath>
  </defs>
 </svg>
